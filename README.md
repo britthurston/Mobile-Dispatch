@@ -8,3 +8,11 @@ I began the re-design by starting from the very beginning; research.
 I wanted to understand what is was that we were trying to accomplish at the root. I chatted with Police Chiefs, sat in dispatch centers and even road along with officers. 
 
 After many conversations with users and many productive discussions with my team. We started with a map-centric approach.
+
+
+My Contribution:
+- User Research
+- Defining MVP
+- Experience Architecture
+- Screen Design 
+- Stakeholder Alignment
