@@ -1,7 +1,7 @@
 # Mobile-Dispatch.2
 
 
-The original Mobile Dispatch application was built in 2015 and a prototyoe was developed to generate buzz at tradeshows. The original application was translated from a desktop version meant for the ruggedized laptops in police units. The prototype did not garner the expected excitement. 
+The original Mobile Dispatch application was built in 2015 and a prototype was developed to generate buzz at tradeshows. The original application was essentially translated from a desktop version meant for the ruggedized laptops in police units. The prototype did not garner the expected excitement. 
 
 I began the re-design by starting from the very beginning; research. 
 
