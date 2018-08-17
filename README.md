@@ -1,17 +1,10 @@
-# Mobile-Dispatch
-A mobile application that streamlines information and communication from 9-1-1 Dispatchers to the Officers in the field. 
+# Mobile-Dispatch.2
 
-Problems Solved:
 
-- Increased Spatial Awareness (Map visual for current location and call location)
-- Turn by Turn directions to Call Location available immediately 
-- Information from dispatcher desreetly displayed and available whenever (reduces the need for info repeat over the radio and radio communication upsetting individuals involved)
+The original Mobile Dispatch application was built in 2015 and a prototyoe was developed to generate buzz at tradeshows. The original application was translated from a desktop version meant for the ruggedized laptops in police units. The prototype did not garner the expected excitement. 
 
-Spiral #2
-- Shift Breif, assignment from shift supervisor
-- 24 hour history, a summary of all events, incidents and calls for shift zone 
-- Watch List 
+I began the re-design by starting from the very beginning; research. 
 
-Spiral #3
-- Incident report # generation
-- Information capture ( Who, What, When, Where ) for Incident Report 
+I wanted to understand what is was that we were trying to accomplish at the root. I chatted with Police Cheifs, sat in dispatch centers and even road along with officers. 
+
+After many conversations with users and many productive discussions with my team. We started with a map-centric approach.
