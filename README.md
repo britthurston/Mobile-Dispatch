@@ -10,7 +10,7 @@ I wanted to understand what is was that we were trying to accomplish at the root
 After many conversations with users and many productive discussions with my team. We started with a map-centric approach.
 
 
-My Contribution:
+*My Contribution:*
 - User Research
 - Defining MVP
 - Experience Architecture
